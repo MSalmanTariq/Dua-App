@@ -1,0 +1,50 @@
+.nav-pad{ 
+   margin-right: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.div1 {
+   /*  background-image: url(../images/mosq.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%; */
+    background: url(../images/mosq.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.headings{
+    color: white
+}
+
+.dua-pad{
+    padding-top: 30px;
+    margin-top:20px;
+    padding-bottom: 30px;
+    /* margin-left: 20px; */
+}
+
+.dua-form{
+
+   margin-top:30px; 
+   
+}
+.border1{
+    
+      background: rgba(0, 0, 0, 0.6);
+}
+.left-pad{
+
+    padding-left: 50px;
+}
+.details1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+    color: #fff;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-weight: 600;
+}

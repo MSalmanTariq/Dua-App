@@ -1,0 +1,76 @@
+.border1{
+  
+    background: rgba(0, 0, 0, 0.6);
+}
+.pad-border{
+
+    padding: 10px 40px;
+
+}
+.pad-heading{
+    padding-top:5px; 
+    padding-bottom:5px; 
+    color: white;
+    font-size: 2em;
+    color: #fff;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    font-weight: 700;
+
+}
+.img-head{
+    padding-top:20px; 
+    padding-bottom:5px; 
+    color: white;
+    font-size: 2.5em;
+    color: #fff;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+body{
+    background-color: #37B98A;
+   
+	font-family: 'Roboto', sans-serif;
+}
+label{
+    color: white;
+}
+
+.img-pad{
+    margin-top: 15%;
+}
+.btn-pad{
+    padding-left: 10px;
+    padding-right:10px; 
+}
+.footer-line{
+    letter-spacing: 4px;
+    padding-top: 15px;
+    color: white;
+    
+}
+a{
+    color: white;
+    
+
+}
+a:hover{
+    color: #37B98A;
+    
+
+}
+.div1 {
+  /*   background-image: url(../images/madina1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%; */
+
+    background: url(../images/madina1.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

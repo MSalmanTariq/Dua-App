@@ -1,0 +1,67 @@
+.date-clr{ 
+    color: rgb(126, 126, 130)
+}
+
+.card-border{
+    border: 1px solid #9F9B9B;
+    opacity: 0.85;
+}
+
+.nav-pad{ 
+    margin-right: 10px;
+   padding-left: 20px;
+   padding-right: 20px;
+ }
+
+ .div1 {
+    /*  background-image: url(../images/mosq.jpg);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+     width: 100%;
+     height: 100%; */
+     background: url(../images/mosq2.jpg) no-repeat center center fixed; 
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+ }
+ .div-pad{
+     padding-left:20px;
+ }
+ .name-pad{
+     padding-right: 10px;
+ }
+
+ .badge-detail{
+    border: 1px solid red;
+   
+   
+    
+   
+ }
+ .feed-pad{
+     margin-bottom: 20px;
+ }
+ i {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+}
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+
+.delbtn{
+
+    margin-left: 10px;
+}
+.edtbtn{
+    padding-left:20px;
+    padding-right: 20px; 
+}
+.feedbox{
+    margin-bottom: 20px;
+}
